@@ -1,2 +1,0 @@
-# Yandex-Praktikum-Diploma
-Diploma
